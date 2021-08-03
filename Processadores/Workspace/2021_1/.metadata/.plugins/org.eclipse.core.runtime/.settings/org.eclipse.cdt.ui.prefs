@@ -1,0 +1,13 @@
+content_assist_parameters_background=0,128,192
+content_assist_proposals_background=0,128,192
+eclipse.preferences.version=1
+formatter_profile=org.eclipse.cdt.ui.default.kandr_profile
+formatter_settings_version=1
+inactiveCodeColor=0,128,192
+matchingBrackets=false
+matchingBracketsColor=0,128,192
+sourceHoverBackgroundColor=0,128,192
+sourceHoverBackgroundColor.SystemDefault=false
+spelling_locale_initialized=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

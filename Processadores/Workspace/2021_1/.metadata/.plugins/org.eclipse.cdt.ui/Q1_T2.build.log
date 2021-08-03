@@ -1,0 +1,23 @@
+15:11:59 **** Incremental Build of configuration Debug for project Q1_T2 ****
+make -j12 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m3 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F103x6 -c -I../Core/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Core/Src/main.o"
+arm-none-eabi-gcc -o "Q1_T2.elf" @"objects.list"   -mcpu=cortex-m3 -T"C:\PUCRS\Processadores\Workspace\Q1_T2\STM32F103C6TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="Q1_T2.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: Q1_T2.elf
+ 
+arm-none-eabi-objdump -h -S  Q1_T2.elf  > "Q1_T2.list"
+arm-none-eabi-objcopy  -O ihex  Q1_T2.elf  "Q1_T2.hex"
+arm-none-eabi-objcopy  -O binary  Q1_T2.elf  "Q1_T2.bin"
+arm-none-eabi-size   Q1_T2.elf 
+   text	   data	    bss	    dec	    hex	filename
+   8084	    120	   1600	   9804	   264c	Q1_T2.elf
+Finished building: default.size.stdout
+ 
+Finished building: Q1_T2.hex
+Finished building: Q1_T2.bin
+ 
+ 
+Finished building: Q1_T2.list
+ 
+
+15:12:00 Build Finished. 0 errors, 0 warnings. (took 587ms)
+
