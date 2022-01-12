@@ -1,0 +1,23 @@
+#include <iostream>
+
+using namespace std;
+
+class P1
+{
+ int A, B;
+ public:
+ int MediaPond(int, int);
+};
+
+float P1::MediaPond(int a, int b)
+{
+    return (float)(a*P1 + b*P2)/(P1+P2);
+}
+
+int main()
+{
+    
+    cout << "Hello World!" << endl;
+    return 0;
+}
+

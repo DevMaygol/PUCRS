@@ -1,0 +1,28 @@
+Questao: 1	8 x 9 = 72	Correto
+
+Questao: 2	6 x 14 = 2	Errado
+	Gabarito: 84
+
+Questao: 3	9 x 1 = 9	Correto
+
+Questao: 4	7 x 5 = 35	Correto
+
+Questao: 5	5 x 18 = 120	Errado
+	Gabarito: 90
+
+Questao: 6	10 x 17 = 170	Correto
+
+Questao: 7	10 x 15 = 150	Correto
+
+Questao: 8	10 x 5 = 50	Correto
+
+Questao: 9	2 x 1 = 2	Correto
+
+Questao: 10	6 x 18 = 94	Errado
+	Gabarito: 108
+
+Acertos: 7 de 10
+
+Tempo para realizar o teste: 56.98 segundos
+Tempo medio por questao: 5.70 segundos
+

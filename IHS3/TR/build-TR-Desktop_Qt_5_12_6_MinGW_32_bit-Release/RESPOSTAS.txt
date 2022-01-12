@@ -1,0 +1,53 @@
+Questao: 1	2 x 10 = 20	Correto
+
+Questao: 2	4 x 7 = 24	Errado
+	Gabarito: 28
+
+Questao: 3	5 x 5 = 25	Correto
+
+Questao: 4	8 x 4 = 32	Correto
+
+Questao: 5	2 x 6 = 12	Correto
+
+Questao: 6	7 x 9 = 63	Correto
+
+Questao: 7	9 x 5 = 45	Correto
+
+Questao: 8	9 x 2 = 18	Correto
+
+Questao: 9	9 x 8 = 72	Correto
+
+Questao: 10	8 x 6 = 54	Errado
+	Gabarito: 48
+
+Acertos: 8 de 10
+
+Tempo para realizar o teste: 40.94 segundos
+Tempo medio por questao: 4.09 segundos
+
+Questao: 1	1 x 1 = 1	Correto
+
+Questao: 2	2 x 2 = 4	Correto
+
+Questao: 3	2 x 2 = 4	Correto
+
+Questao: 4	3 x 3 = 9	Correto
+
+Questao: 5	1 x 1 = 4	Errado
+	Gabarito: 1
+
+Questao: 6	1 x 2 = 2	Correto
+
+Questao: 7	1 x 1 = 1	Correto
+
+Questao: 8	2 x 2 = 4	Correto
+
+Questao: 9	1 x 1 = 1	Correto
+
+Questao: 10	3 x 2 = 6	Correto
+
+Acertos: 9 de 10
+
+Tempo para realizar o teste: 18.26 segundos
+Tempo medio por questao: 1.83 segundos
+
